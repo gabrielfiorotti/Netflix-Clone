@@ -376,7 +376,10 @@ md = medium
         font-size: 1.5rem;
     }
 
-
+    .container {
+        max-width: 90%;
+    }
+    
     .footer .footer-cols {
         grid-template-columns: repeat(2, 1fr);
     }
