@@ -14,7 +14,7 @@
 
 ## 🎥 Preview
 
-* You can check the full result at: https://gabrielfiorotti.github.io/Netflix-Clone/
+* You can check the full result at: https://gabrielfiorotti.github.io/Netflix-LandingPage/
 
 <img src="./assets/Preview-Netflix.png">
 
